@@ -1,5 +1,5 @@
 # Ellume-COVID-Test-Research-Files
-Files related to the Ellume COVID Test Research
+Files related to the Ellume COVID Test Research documented here: https://labs.f-secure.com/blog/faking-a-positive-covid-test
 
 This project contains the following:
 
